@@ -1,14 +1,6 @@
 Gomed - Analitico
 ================
-<img align="right" height="70px" src="http://gomed.digital/img/celular.png">
-
-
-![Project status](https://img.shields.io/badge/version-9.26.0-green.svg)
-
-[![Build Status](https://semaphoreci.com/api/v1/joeybloggs/validator/branches/v9/badge.svg)](hhttps://theristes.semaphoreci.com/branches/2ba62e1e-7880-48cb-a553-62b18d35d9d1)
-
-
-![License](https://img.shields.io/dub/l/vibe-d.svg)
+<img align="right" height="70px" src="http://gomed.digital/img/celular.png">[![Build Status](https://semaphoreci.com/api/v1/joeybloggs/validator/branches/v9/badge.svg)](hhttps://theristes.semaphoreci.com/branches/2ba62e1e-7880-48cb-a553-62b18d35d9d1)![License](https://img.shields.io/dub/l/vibe-d.svg)
 
 Gomed - Analitico implements report 
 
