@@ -2,7 +2,7 @@ Gomed - Analitico
 ================
 <img align="right" height="70px" src="http://gomed.digital/img/celular.png">[![Build Status](https://semaphoreci.com/api/v1/joeybloggs/validator/branches/v9/badge.svg)](hhttps://theristes.semaphoreci.com/branches/2ba62e1e-7880-48cb-a553-62b18d35d9d1)![License](https://img.shields.io/dub/l/vibe-d.svg)
 
-Gomed - Analitico implements report 
+Gomed - Analitico implements report for a DrugStore Delivery (Portuguese Language)
 
 It has the following components:
 
@@ -10,6 +10,23 @@ It has the following components:
 -   Bootstrap framework  
 -   jQuery library  
 -   MySQL relational database
+
+Screens
+------------
+<table>
+	<tr>
+		<td>
+<img src="https://github.com/theristes/gomed/blob/master/screens/img1.png">
+		</td>
+		<td>
+<img src="https://github.com/theristes/gomed/blob/master/screens/img2.png">
+		</td>
+		<td>			
+<img src="https://github.com/theristes/gomed/blob/master/screens/img3.png">
+		</td>
+	</tr>
+</table>
+
 
 Installation
 ------------
