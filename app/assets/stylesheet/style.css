@@ -1,0 +1,22 @@
+.login {
+    background-image: url("/app/assets/img/banner.png");
+    background-color: #BD0101; /* Used if the image is unavailable */
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.home_area {
+    background-color: #BD0101; /* Used if the image is unavailable */
+}
+
+#nav-top {
+    background-color: #BD0101;
+    height: 8%;
+}
+
+#main-container {
+    height: 92%;
+}

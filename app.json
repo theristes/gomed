@@ -1,0 +1,9 @@
+{
+    "name": "GoMed",
+    "description": "Just a simple app written in Go",
+    "keywords": [
+      "go"
+    ],
+    "website": "https://github.com/theristes/gomed",
+    "repository": "https://github.com/theristes/gomed.git"
+  }
