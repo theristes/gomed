@@ -1,8 +1,6 @@
 Gomed - Analitico
 ================
-<img align="right" height="80px" src="http://gomed.digital/img/celular.png">
-[![Build Status](https://semaphoreci.com/api/v1/joeybloggs/validator/branches/v9/badge.svg)](https://theristes.semaphoreci.com/branches/2ba62e1e-7880-48cb-a553-62b18d35d9d1)
-![License](https://img.shields.io/dub/l/vibe-d.svg)
+<img align="right" height="70px" src="http://gomed.digital/img/celular.png">
 
 Gomed - Analitico implements report for drugstores delivery`s companies (Portuguese Language)
 
