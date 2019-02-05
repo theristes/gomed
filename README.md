@@ -1,3 +1,3 @@
 Gomed - Analitico
 ================
-<img align="left" src="http://gomed.digital/img/logo.png">
+<img align="left" style="background-color: #BD0101;" src="http://gomed.digital/img/logo.png">
