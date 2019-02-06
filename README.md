@@ -1,6 +1,6 @@
 Gomed - Analitico
 ================
-<img align="right" height="70px" src="http://gomed.digital/img/celular.png">
+<img align="right" height="70px" src="http://gomed.digital/img/celular.png" href="https://gomed.digital">
 
 Gomed - Analitico implements report for drugstores delivery`s companies (Portuguese Language)
 
