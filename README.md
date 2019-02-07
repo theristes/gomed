@@ -1,6 +1,6 @@
 Gomed - Analitico
 ================
-<img align="right" height="70px" src="http://gomed.digital/img/celular.png" href="https://gomed.digital">
+<img align="right" height="70px" src="http://gomed.digital/img/celular.png">
 
 Gomed - Analitico implements report for drugstores delivery`s companies (Portuguese Language)
 
@@ -43,7 +43,11 @@ Update the file .ENV in order to fit it
     
     vim .ENV
 
+Get these f*cking libs by running these following commands:
 
+	cd assets/scripts/lib
+	chmod +x install.sh
+	./install.sh
 Run
 ------
 
