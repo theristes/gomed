@@ -1,7 +1,7 @@
-$( document ).ready( () => {
-    $("#bt-signin").click((e)=>{
-        let email = $("#email").val();
-        let password = $("#password", $("#loginform")).val();
+$( document ).ready( function() {
+    $("#bt-signin").click(function (e){
+        var email = $("#email").val();
+        var password = $("#password", $("#loginform")).val();
         $.ajax({
         "async": true,
         "crossDomain": true,
@@ -12,14 +12,14 @@ $( document ).ready( () => {
             "cache-control": "no-cache"
         },
         "data": {"email": email,"password": password}
-        }).done( (res) => {
+        }).done( function (res)  {
             if (res.code == "OK") {
                 $(location).attr('href', 'home');
             } else {
                 $("#alert-danger").attr("class", "alert alert-danger");
                 $("#message-error").text(res.message);
             }
-        }).fail( (res) => {
+        }).fail( function (res) {
            throw res.message
         })
 
