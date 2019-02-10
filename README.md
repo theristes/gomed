@@ -33,7 +33,7 @@ Installation
 
 Use go get.
 
-	go get https://github.com/theristes/gomed
+	go get -u github.com/theristes/gomed
 
 Go into the folder gomed
     
