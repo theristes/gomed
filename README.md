@@ -4,7 +4,7 @@ Gomed - Analitico
 
 Gomed - Analitico implements report for drugstores delivery`s companies (Portuguese Language)
 
-It has the following components:
+It was build with these dudes:
 
 -   Go Language
 -   Bootstrap framework  
